@@ -1,1 +1,6 @@
+Date: ~May 2021; Very early stages of my Master's in Applied Economics Thesis/Research project. No longer working from this iteration.
+Goal was to: 
+-Import monthly(~2010-2020) data on U.S./Chinese import quantities and values, derive a 'price level' from those; (Eq. Price = v / q )
+-Include the newly derived price levels in a Difference-in-Difference model, with dummy variables for different points in time where there was tension between the U.S. and China in terms of trade relations. 
+-This iteration of the project has since been deprecated. Merely including this file to demonstrate my ability to import data, generate new variables from that data with an objective in mind, and perform econometric analysis using that data.
 
