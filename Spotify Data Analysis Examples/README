@@ -1,0 +1,11 @@
+#Spotify Exploratory Data Analysis Examples:
+#   Objective was to gain better understanding of the demographic makeup of client's audience, using the raw data output from the client's 'Spotify for Artists (SfA)' page. 
+#   While possible to collect time-series data on metrics such as Streams, Followers, and Listeners, that is as granular as the export of SfA data gets. 
+#   SfA does however provide pie charts showing the approximate demographic makeup of the artist's audience (Given by Spotify users when they create an account).
+#     NOTE: The pie charts are for 'Total Listeners Worldwide' under the SfA page's 'Audience' tab.
+#   Taking into account that exporting the demographic data itself would not be an option, it was clear that one way to gain (rough) insight on this.
+#   So, taking the listener demographic percentages (given by SfA, But are not made available to export), and the total listeners data (which is available to export), would 
+#   allow for the generation of rough audience demographic data. 
+#   Next, the demographic information provided by the SfA 'Audience' tab that was determined to be of interest was broken into two sections: 
+#     Section 1: Age-    Which included: Under 18; Ages 18-22; Ages 23-27; Ages 28-34; Ages 35-44; Ages 4-59; And Ages 60+
+#     Section 2: Gender- Which included: Male, Female, Non-Binary, and Unspecified categories.
