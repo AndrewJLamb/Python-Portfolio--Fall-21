@@ -4,7 +4,7 @@
 #   SfA does however provide pie, bar charts showing the approximate demographic makeup of the artist's audience (Given by Spotify users when they create an account).
 #     NOTE: The charts for 'Total Listeners Worldwide' are located under the SfA page's 'Audience' tab.
 #   Taking into account that exporting the demographic data itself would not be an option, it was clear that one way to gain (rough) insight on this still existed.
-#   So, taking the listener demographic percentages (Which are given by SfA, but not made included in the export options), and the total listeners data (Which is available to export), would 
+#   So, taking the listener demographic percentages (Which are given by SfA, but not included in the export options), and the total listeners data (Which is available to export), would 
 #   allow for the generation of rough audience demographic data. 
 #   Next, the demographic information provided by the SfA 'Audience' tab that was determined to be of interest was broken into two sections: 
 #     Section 1: Age-    Which included: Under 18; Ages 18-22; Ages 23-27; Ages 28-34; Ages 35-44; Ages 4-59; And Ages 60+
