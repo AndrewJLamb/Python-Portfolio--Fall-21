@@ -5,4 +5,5 @@ Feel free to reach me via email:
 (Personal)
 andrew_j_lamb@outlook.com
 (Business inquiries)
-andrew@ewop
+andrew@ewopstudios.com
+
