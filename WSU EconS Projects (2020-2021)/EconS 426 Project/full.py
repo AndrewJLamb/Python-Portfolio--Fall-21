@@ -6,14 +6,6 @@ Created on Sat Apr 24 12:59:28 2021
 @author: andrew7
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 22 13:47:29 2021
-
-@author: andrew7
-"""
-
 import numpy as np
 import statsmodels.api as sm
 import statsmodels.stats.outliers_influence as smo
@@ -24,8 +16,8 @@ import matplotlib.pyplot as plt
 #Andrew Lamb
 #Econ S426 Project;
 #Python output (To be attached);
-#Import Traffic_accident.xlsx;
-df = pd.read_excel("/Users/andrew7/Desktop/Traffic_accident.xlsx") 
+#Import traffic.xlsx;
+df = pd.read_excel("traffic.xlsx") 
 
 #Creating Dummy Variable for Accident, Gender, Vehicle types;
 df['Accident_d'] = (df['Accident'] == 'Yes').astype(int)                  # False=0, True=1
