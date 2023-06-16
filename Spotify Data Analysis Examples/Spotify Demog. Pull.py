@@ -34,13 +34,7 @@ register_matplotlib_converters()                           #conversions between
 #date; followers; listeners; streams for 
     #April 16th, 2020 thru May 17th, 2021;
 #Import csv data file. Return type from function is a pandas DataFrame;
-tl = pd.read_excel('/Users/'
-                     'andrew7/'
-                     'Desktop/'
-                     '[TONE_DA]/'
-                     '[SPOTIFY_py]/'
-                     '(.xlsx, .csv) files/'
-                     'TIMELINES04162020THRU05172021.xlsx')
+tl = pd.read_excel(.xlsx')
 #Use pd.set_option to print all rows and columns;
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
